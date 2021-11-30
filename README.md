@@ -1,8 +1,6 @@
 <img src="https://i.pinimg.com/736x/dc/7a/2f/dc7a2f909252775b30dd062c33ebbf64.jpg" width="350" height="350" align="right"/>
 
-### Hi there 👋
-
-# Hi, I'm Denisa :wave:
+# Hi there, I'm Denisa 👋
 
 ## :computer: Computer Science Student :computer:
 
