@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-# Hi, I'm Oana :wave:
+# Hi, I'm Denisa :wave:
 
 ## :computer: Computer Science Student :computer:
 
