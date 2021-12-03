@@ -41,11 +41,6 @@ Here are some ideas to get you started:
   </details>
 
 ## 📫 How to reach me:
-
-<style>
-w { color: White }
-</style>
-
-<w>[<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](https://denisa-vasile.info/)</w>
+[<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](https://denisa-vasile.info/)
 [<img alt="LinkedIn" width="40px" src="util/linkedin.svg" />](https://www.linkedin.com/in/denisa-georgiana-v-358739196)
 [<img alt="Facebook" width="40px" src="util/facebook.svg" />](https://www.facebook.com/DenisaGVasile/)
