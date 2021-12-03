@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ## ⚡Stats:
 
-[![DenisaXXIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisaXXIV&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenisaXXIV&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&theme=aura_dark" />
+</a>
 
 [![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![DenisaXXIV's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  <!--https://github.com/anuraghazra/github-readme-stats -->
 
 <details>	
   <summary><b>⭐ About me</b></summary>
