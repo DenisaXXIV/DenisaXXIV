@@ -5,8 +5,6 @@
 ## :computer: Computer Science Student :computer:
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at E-novation in Python
 - 🌱 I’m currently learning: Kotlin, C#, Haskel
 - :peacock: Object Oriented Programming: C++, Python, Java
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&theme=aura_dark" />
 </a>
 
-[![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)]()
 
 <details>	
   <summary><b>⭐ About me</b></summary>
