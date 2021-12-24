@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at E-novation in Python
 - 🌱 I’m currently learning: Kotlin, C#, Haskel
-- :peacock: Object Oriented Programming: C++, Python, Java
+- :peacock: Object Oriented Programming: C/C++, Python, Java
 - :world_map: Database Management: SQL(PostgreSQL, Microsoft SQL Server)
 - :earth_americas: Web technologies: HTML5, CSS, JavaScript
 - :blue_heart: Frameworks: Django
