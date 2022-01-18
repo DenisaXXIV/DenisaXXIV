@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working at E-novation in Python
-- 🌱 I’m currently learning: Kotlin, C#, Haskel
+- 🌱 I’m currently learning: Spring, Angular
 - :peacock: Object Oriented Programming: C/C++, Python, Java
 - :world_map: Database Management: SQL(PostgreSQL, Microsoft SQL Server)
 - :earth_americas: Web technologies: HTML5, CSS, JavaScript
