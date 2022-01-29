@@ -4,9 +4,7 @@
 
 ## :computer: Computer Science Student :computer:
 
-
-- 🔭 I’m currently working at E-novation in Python
-- 🌱 I’m currently learning: Spring, Angular
+- 🌱 I’m currently learning: Spring, Angular, Kotlin, C#
 - :peacock: Object Oriented Programming: C/C++, Python, Java
 - :world_map: Database Management: SQL(PostgreSQL, Microsoft SQL Server)
 - :earth_americas: Web technologies: HTML5, CSS, JavaScript
@@ -14,13 +12,15 @@
 - 😄 Pronouns: she/her
 
 ## ⚡Stats:
-
+<details>
+  <summary><b>Stats Details</b></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenisaXXIV&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&theme=aura_dark" />
 </a>
+  </details>
 
 [![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)]()
 
