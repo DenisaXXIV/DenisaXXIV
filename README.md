@@ -4,11 +4,13 @@
 
 ## :computer: Computer Science Student :computer:
 
-- 🌱 I’m currently learning: Spring, Angular, C#
-- :peacock: Object Oriented Programming: C/C++, Python, Java
-- :world_map: Database Management: SQL(PostgreSQL, Microsoft SQL Server)
+- 🌱 I’m currently learning: Spring
+- :peacock: Object Oriented Programming: C/C++, Python, Java,C#
+- :world_map: Database Management: <br>
+              - SQL(PostgreSQL, Microsoft SQL Server)<br>
+              - NoSQL(MongoDB)
 - :earth_americas: Web technologies: HTML5, CSS, JavaScript, Typescript
-- :blue_heart: Frameworks: Django
+- :blue_heart: Frameworks: Django, Angular
 - 😄 Pronouns: she/her
 
 ## ⚡Stats:
