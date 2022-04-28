@@ -5,12 +5,12 @@
 ## :computer: Computer Science Student :computer:
 
 - 🌱 I’m currently learning: Spring
-- :peacock: Object Oriented Programming: C/C++, Python, Java,C#
+- :peacock: Object Oriented Programming: C/C++, Python, Java, C#
 - :world_map: Database Management: <br>
               - SQL(PostgreSQL, Microsoft SQL Server)<br>
               - NoSQL(MongoDB)
-- :earth_americas: Web technologies: HTML5, CSS, JavaScript, Typescript
-- :blue_heart: Frameworks: Django, Angular
+- :earth_americas: Web technologies: HTML5, CSS, JavaScript, Typescript, SCSS
+- :blue_heart: Frameworks: Django, Angular, .NET
 - 😄 Pronouns: she/her
 
 ## ⚡Stats:
