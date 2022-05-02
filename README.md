@@ -2,7 +2,7 @@
 
 # Hi there, I'm Denisa 👋
 
-#### :computer: Computer Science Student
+#### <p>:computer: Creative and detail-oriented student, with an empathetic, <br>hardworking and analytical spirit who constantly strives to the <br>best version of herself.</p>
 <details>	
   <summary><b>⭐ About me</b></summary>
   
