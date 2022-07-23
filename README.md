@@ -68,7 +68,7 @@
 [![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)]()
 
 ## 📫 How to reach me: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DenisaXXIV.DenisaXXIV&left_color=gray&right_color=orange)
-<a href="https://denisa-vasile.info/" target="_blank" rel="noreferrer"><img src="https://github.com/DenisaXXIV/portofolio/blob/main/imagini/logo/Logo_vulpe.svg" width="40" height="40" alt="Portofolio" /></a>
+<a href="https://denisa-vasile.info/" target="_blank" rel="noreferrer"><img src="https://github.com/DenisaXXIV/portofolio/blob/main/Vanilla%20JS/imagini/logo/Logo_vulpe.svg" width="40" height="40" alt="Portofolio" /></a>
 <a href="https://www.linkedin.com/in/denisa-georgiana-v-358739196" target="_blank" rel="noreferrer"><img src="https://onetechstop.net/wp-content/uploads/2016/09/LinkedIn-Logo-1.png" width="36" height="36" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/DenisaGVasile/" target="_blank" rel="noreferrer"><img src="https://www.bambucoworking.com/wp-content/uploads/2017/04/facebook-logo-png-2335.png" width="36" height="36" alt="Facebook" /></a>
 <!---
