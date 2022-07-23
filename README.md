@@ -1,4 +1,4 @@
-<img src="util/girl.svg" width="400" height="400" align="right" alt="https://storyset.com/data"/>
+<a href="https://storyset.com/data" target="_blank" align="right" rel="noreferrer"><img src="util/girl.svg" width="400" height="400" align="right" alt="Source: Story Set"/></a>
 
 # Hi there, I'm Denisa 👋
 
