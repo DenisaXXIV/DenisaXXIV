@@ -73,6 +73,14 @@
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+
+<!--
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! **************************************
+
+<a href="https://putty.org/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.yamamo10.jp%2Fyamamoto%2Fcomp%2FPuTTY%2Ffigure%2FPuTTY_symbol.png&f=1&nofb=1" width="36" height="36" alt="PUTTY" /></a>
+
+
+-->
                                 
 ## ⚡Stats:
 <details>
