@@ -46,11 +46,28 @@
 <a href="https://file.org/extension/json" target="_blank" rel="noreferrer"><img src="https://cdn2.iconfinder.com/data/icons/document-file-fill-outline-1/64/File_Document_Doc_Folder_JSON-512.png" width="36" height="36" alt="JSON" /></a>
 <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fdocument-file-flat%2F64%2FFile_Document_Doc_Folder_CSV-512.png&f=1&nofb=1" width="35" height="36" alt="CSV" /></a>
 
+<!--
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! **************************************
+
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbudougumi0617.github.io%2Flogos%2Fmysql.png&f=1&nofb=1" width="36" height="36" alt="MySQL" /></a>
+
+-->
+
 ## Frameworks
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+
+
+<!--
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! **************************************
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F58%2Fcb%2F47%2F58cb4729bc3de5f8cafc02d90fbc6e5b.png&f=1&nofb=1" width="36" height="36" alt="Spring" /></a>
+
+
+-->
                                 
 ## Software
 
