@@ -79,6 +79,6 @@
 <a href="https://www.linkedin.com/in/denisa-georgiana-v-358739196" target="_blank" rel="noreferrer"><img src="https://onetechstop.net/wp-content/uploads/2016/09/LinkedIn-Logo-1.png" width="36" height="36" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/DenisaGVasile/" target="_blank" rel="noreferrer"><img src="https://www.bambucoworking.com/wp-content/uploads/2017/04/facebook-logo-png-2335.png" width="36" height="36" alt="Facebook" /></a>
 <!---
-[<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](http://denisavasile.online/)
+[<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](http://denisavasile.online)
 [<img alt="LinkedIn" width="40px" src="util/linkedin.svg" />](https://www.linkedin.com/in/denisa-georgiana-v-358739196)
 [<img alt="Facebook" width="40px" src="util/facebook.svg" />](https://www.facebook.com/DenisaGVasile/)
