@@ -62,23 +62,13 @@
 <a href="https://putty.org/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.yamamo10.jp%2Fyamamoto%2Fcomp%2FPuTTY%2Ffigure%2FPuTTY_symbol.png&f=1&nofb=1" width="36" height="36" alt="PUTTY" /></a>
                                 
 ## ⚡Stats:
-<details>
-  <summary><b>Stats Details</b></summary>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenisaXXIV&hide=prs,issues&count_private=true&show_icons=true&theme=aura_dark" />
-  <br>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DenisaXXIV&theme=aura_dark" />
-</a>
-  </details>
 
 [![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact)]()
 
-## 📫 How to reach me: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DenisaXXIV.DenisaXXIV&left_color=gray&right_color=orange)
-<a href="https://denisa-vasile.info/" target="_blank" rel="noreferrer"><img src="https://github.com/DenisaXXIV/portofolio/blob/main/Vanilla%20JS/imagini/logo/Logo_vulpe.svg" width="40" height="40" alt="Portofolio" /></a>
-<a href="https://www.linkedin.com/in/denisa-georgiana-v-358739196" target="_blank" rel="noreferrer"><img src="https://onetechstop.net/wp-content/uploads/2016/09/LinkedIn-Logo-1.png" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/DenisaGVasile/" target="_blank" rel="noreferrer"><img src="https://www.bambucoworking.com/wp-content/uploads/2017/04/facebook-logo-png-2335.png" width="36" height="36" alt="Facebook" /></a>
+## 📫 How to reach me:
+<!---<a href="https://denisa-vasile.info/" target="_blank" rel="noreferrer"><img src="https://github.com/DenisaXXIV/portofolio/blob/main/Vanilla%20JS/imagini/logo/Logo_vulpe.svg" width="40" height="40" alt="Portofolio" /></a> -->
+<a href="https://www.linkedin.com/in/denisa-georgiana-v-358739196" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F018%2F930%2F587%2Foriginal%2Flinkedin-logo-linkedin-icon-transparent-free-png.png&f=1&nofb=1&ipt=a6077a78cbb9505aa2f373debca2e98332792cd05bdc82d2c70736173010304e" width="36" height="36" alt="LinkedIn" /></a>
+
 <!---
 [<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](http://denisavasile.online/)
 [<img alt="LinkedIn" width="40px" src="util/linkedin.svg" />](https://www.linkedin.com/in/denisa-georgiana-v-358739196)
