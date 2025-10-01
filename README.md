@@ -2,22 +2,6 @@
 
 # Hi there, I'm Denisa 👋
 
-#### <p>:computer: Creative and detail-oriented student, with an empathetic, <br>hardworking and analytical spirit who constantly strives to the <br>best version of herself.</p>
-<details>	
-  <summary><b>⭐ About me</b></summary>
-  
-* Good problem solving skills
-* Coding and debugging.
-* Editing source-code.
-* Extremely organised with a high level of attention to details
-* Profiling and analyzing algorithms.
-* Goal-oriented mindset
-* Ambitious, hard working, energetic and reliable
-
-*I have the ability to work independently as well as being part of a team*
-  
-  </details>
-
 ## Object Oriented Programming
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
