@@ -7,117 +7,269 @@
 ![DenisaXXIV's GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=DenisaXXIV&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400&card_height=215)<br/>
 
 ## 💻 Tech Stack:
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" title="C"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="auto" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" title="C++"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="auto" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="auto" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="auto" height="36" alt="Java" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F184%2F1*knHF_qpxdtS8h0Z8EeqowA%402x.png&f=1&nofb=1" width="auto" height="36" alt="Dart" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="auto" height="36" alt="Python" /></a>
-<a href="https://ro.wikipedia.org/wiki/Prolog" target="_blank" rel="noreferrer" title="Prolog"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prolog.png" width="auto" height="36" alt="Prolog" /></a>
-<a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)" target="_blank" rel="noreferrer" title="LISP"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_lisp_icon_130416.png" width="auto" height="36" alt="LISP" /></a>    	
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="auto" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="auto" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F317889%3Fv%3D3%26s%3D400&f=1&nofb=1" width="auto" height="36" alt="SASS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="auto" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="auto" height="36" alt="Typescript" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" title=".NET"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="auto" height="36" alt=".NET" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring Core"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F58%2Fcb%2F47%2F58cb4729bc3de5f8cafc02d90fbc6e5b.png&f=1&nofb=1" width="auto" height="36" alt="Spring Core" /></a>
-<a href="https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started" target="_blank" rel="noreferrer" title="ASP.NET"><img src="https://openview.technology/wp-content/uploads/2018/09/aspnet-logo.png" width="auto" height="36" alt="ASP.NET" /></a>
-<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer" title="Entity Framework"><img src="https://aspnetboilerplate.com/images/logos/tools/ef.png" width="auto" height="36" alt="Entity Framework" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank" rel="noreferrer" title="SignalR"><img src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=80&fm=png" width="auto" height="36" alt="SignalR" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring Boot"><img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="auto" height="36" alt="Spring Boot" /></a>
-<a href="https://spring.io/projects/spring-restdocs" target="_blank" rel="noreferrer" title="Spring REST"><img src="https://camo.githubusercontent.com/d418a3ac549e6f42c703eec893b6db23ab2f9e506b4b5259dc0d8d08d9596d52/68747470733a2f2f70726f642d616362352e6b7863646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f726573742d69636f6e2d323030783139362d312e706e67" width="auto" height="36" alt="Spring REST" /></a>
-<a href="https://spring.io/projects/spring-data" target="_blank" rel="noreferrer" title="Spring Data"><img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" width="auto" height="36" alt="Spring Data" /></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer" title="Hibernate"><img src="https://logo.svgcdn.com/l/hibernate.png" width="auto" height="36" alt="Hibernate" /></a>
-<a href="https://www.javatpoint.com/jdbc-tutorial" target="_blank" rel="noreferrer" title="JDBC"><img src="https://cweijan.gallerycdn.vsassets.io/extensions/cweijan/dbclient-jdbc/1.3.9/1733416917541/Microsoft.VisualStudio.Services.Icons.Default" width="auto" height="36" alt="JDBC" /></a>
-<a href="https://www.oracle.com/java/technologies/persistence-jsp.html" target="_blank" rel="noreferrer" title="Java Persistence API( JPA)"><img src="https://blog.adamgamboa.dev/wp-content/uploads/2021/08/jpa.png" width="auto" height="36" alt="Java Persistence API" /></a>
-<a href="https://projectlombok.org/" target="_blank" rel="noreferrer" title="Lombok"><img src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" width="auto" height="36" alt="Lombok" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="auto" height="36" alt="Angular" /></a>
-<a href="https://material.angular.io/" target="_blank" rel="noreferrer" title="Angular Material"><img src="https://cdn.jsdelivr.net/gh/angular-material-extensions/pages@master/assets/angular-material-extensions-logo.png" width="auto" height="36" alt="Angular Material" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="BootStrap"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="auto" height="36" alt="Bootstrap" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter"><img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" width="auto" height="36" alt="Flutter" /></a>
-<a href="https://openjfx.io/" target="_blank" rel="noreferrer" title="JavaFX"><img src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" width="auto" height="36" alt="JavaFX" /></a>
-<a href="https://docs.oracle.com/javase/tutorial/uiswing//" target="_blank" rel="noreferrer" title="Java Swing"><img src="https://static.wikia.nocookie.net/java/images/3/39/Site-community-image/revision/latest?cb=20240726025623" width="auto" height="36" alt="Java Swing" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-9.0" target="_blank" rel="noreferrer" title="WPF .NET"><img src="https://inapp.com/wp-content/uploads/2023/01/wpf-logo-175.png" width="auto" height="36" alt="WPF .NET" /></a>
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer" title="SceneBuilder"><img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="auto" height="36" alt="SceneBuilder" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="auto" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="Microsoft SQL Server" title="TypeScript"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="auto" height="36" alt="SQL Server" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbudougumi0617.github.io%2Flogos%2Fmysql.png&f=1&nofb=1" width="auto" height="36" alt="MySQL" /></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer" title="MariaDB"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.seidengroup.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmariadb-logo.png&f=1&nofb=1&ipt=df19196b92b627eb92e397dff92b84e3ffc037b98bc55adb54c2cc523ebef82b&ipo=images" width="auto" height="36" alt="MariaDB" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="auto" height="36" alt="MongoDB" /></a>
-<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer" title="XML"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fxml-file-2330558-1950399.png&f=1&nofb=1" width="auto" height="36" alt="XML" /></a>
-<a href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms759096(v=vs.85)" target="_blank" rel="noreferrer" title="XSLT"><img src="https://raw.githubusercontent.com/DenisaXXIV/DenisaXXIV/master/util/XSLT.png" width="auto" height="36" alt="XSLT" /></a>
-<a href="https://file.org/extension/json" target="_blank" rel="noreferrer" title="JSON"><img src="https://cdn2.iconfinder.com/data/icons/document-file-fill-outline-1/64/File_Document_Doc_Folder_JSON-512.png" width="auto" height="36" alt="JSON" /></a>
-<a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer" title="CSV"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fdocument-file-flat%2F64%2FFile_Document_Doc_Folder_CSV-512.png&f=1&nofb=1" width="auto" height="36" alt="CSV" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://logo.svgcdn.com/d/docker-original-8x.png" width="auto" height="36" alt="Docker" /></a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer" title="GitLab CI/CD"><img src="https://hub.datree.io/img/cicd/3.png" width="auto" height="36" alt="GitLab CI/CD" /></a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer" title="SonarQube"><img src="https://i.pinimg.com/originals/3e/76/87/3e7687771299f31c6905f9367e3e1ad0.png" width="auto" height="36" alt="SonarQube" /></a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyanbin.blog%2Fwp-content%2Fuploads%2F2018%2F05%2Fswagger-logo.png&f=1&nofb=1" width="auto" height="36" alt="Swagger" /></a>
-<a href="https://nexus.evolveum.com/nexus/" target="_blank" rel="noreferrer" title="Sonatype Nexus Repository"><img src="https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repo-icon.png" width="auto" height="36" alt="Sonatype Nexus Repository" /></a>
-<a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository" target="_blank" rel="noreferrer" title="Git"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="auto" height="36" alt="Git" /></a>
-<a href="https://www.syntevo.com/smartgit/" target="_blank" rel="noreferrer" title="SmartGit"><img src="https://dl.flathub.org/media/com/syntevo/SmartGit/375bda92d86a3058ce375bae3396aeeb/icons/128x128@2/com.syntevo.SmartGit.png" width="auto" height="36" alt="SmartGit" /></a>
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer" title="GitKraken"><img src="https://media.imgcdn.org/repo/2023/05/gitkraken-client-on-premise-serverless-9-4-0/646b1d367514c-gitkraken-client-on-premise-serverless-9-4-0-Icon.webp" width="auto" height="36" alt="GitKraken" /></a>
-<a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer" title="GitHub Desktop"><img src="https://www.applivery.com/wp-content/uploads/2024/07/GitHub-Desktop.png" width="auto" height="36" alt="GitHub Desktop" /></a>
-<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer" title="Sourcetree"><img src="https://images.icon-icons.com/3053/PNG/512/sourcetree_macos_bigsur_icon_189711.png" width="auto" height="36" alt="Sourcetree" /></a>
-<a href="https://gitahead.github.io/gitahead.com/" target="_blank" rel="noreferrer" title="GitAhead"><img src="https://gitahead.github.io/gitahead.com/images/gitahead@2x.png" width="auto" height="36" alt="GitAhead" /></a>
-<a href="https://gitnuro.com/" target="_blank" rel="noreferrer" title="Gitnuro"><img src="https://media.imgcdn.org/repo/2024/04/abdelilah-el-aissaoui-gitnuro/6620f75436b2c-abdelilah-el-aissaoui-gitnuro-Icon.webp" width="auto" height="36" alt="Gitnuro" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="auto" height="36" alt="GitHub" /></a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" title="GitLab"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="auto" height="36" alt="GitLab" /></a>
-<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer" title="Bitbucket"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" width="auto" height="36" alt="Bitbucket" /></a>
-<a href="https://junit.org/junit4/" target="_blank" rel="noreferrer" title="JUnit 4"><img src="https://avatars.githubusercontent.com/u/874086?v=4" width="auto" height="36" alt="JUnit 4" /></a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer" title="JUnit 5"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="auto" height="36" alt="JUnit 5" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer" title="Mockito"><img src="https://avatars.githubusercontent.com/u/2054056?s=200&v=4" width="auto" height="36" alt="Mockito" /></a>
-<a href="https://github.com/powermock/powermock" target="_blank" rel="noreferrer" title="PowerMock"><img src="https://raw.githubusercontent.com/powermock/powermock.github.io/master/img/logo-2.png" width="auto" height="36" alt="PowerMock" /></a>
-<a href="https://www.eclemma.org/jacoco/" target="_blank" rel="noreferrer" title="JaCoCo"><img src="https://about.codecov.io/wp-content/uploads/2020/11/jacoco-logo.png" width="auto" height="36" alt="JaCoCo" /></a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" title="JMeter"><img src="https://jmeter.apache.org/images/jmeter_square.png" width="auto" height="36" alt="JMeter" /></a>
-<a href="https://docs.oracle.com/cd/E13222_01/wls/docs100/jmxinst/understanding.html" target="_blank" rel="noreferrer" title="JMX"><img src="https://fileproinfo.com/images/jmx_file_extension.png" width="auto" height="36" alt="JMX" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp&w=256" width="auto" height="36" alt="Postman" /></a>
-<a href="https://activemq.apache.org/" target="_blank" rel="noreferrer" title="Apache MQ"><img src="https://grafana.com/media/solutions/activemq-monitor/activemq-icon.png" width="auto" height="36" alt="Apache MQ" /></a>
-<a href="https://ro.wikipedia.org/wiki/Hypertext_Transfer_Protocol" target="_blank" rel="noreferrer" title="HTTP"><img src="https://cdn-icons-png.flaticon.com/512/1276/1276470.png" width="auto" height="36" alt="HTTP" /></a>
-<a href="https://putty.org/" target="_blank" rel="noreferrer" title="Putty"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.yamamo10.jp%2Fyamamoto%2Fcomp%2FPuTTY%2Ffigure%2FPuTTY_symbol.png&f=1&nofb=1" width="auto" height="36" alt="PUTTY" /></a>
-<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank" rel="noreferrer" title="MVC (Model-View-Controller)"><img src="https://cdn2.iconfinder.com/data/icons/programming-75/512/MVC-model-view-controller-512.png" width="auto" height="36" alt="MVC (Model-View-Controller)" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm" target="_blank" rel="noreferrer" title="MVVM (Model-View-ViewModel)"><img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" width="auto" height="36" alt="MVVM (Model-View-ViewModel)" /></a>
-<a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer" title="Agile"><img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="auto" height="36" alt="Agile" /></a>
-<a href="https://www.scrum.org/resources/what-scrum-module" target="_blank" rel="noreferrer" title="Scrum"><img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" width="auto" height="36" alt="Scrum" /></a>
-<a href="https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/" target="_blank" rel="noreferrer" title="UML"><img src="https://s.cafebazaar.ir/images/icons/com.htproduct.umltutorials_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize" width="auto" height="36" alt="UML" /></a>
-<a href="https://www.microsoft.com/ro-ro/microsoft-teams/log-in" target="_blank" rel="noreferrer" title="Teams"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="auto" height="36" alt="Teams" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="auto" height="36" alt="Jira" /></a>
-<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer" title="Visual Paradigm"><img src="https://cdn-images.visual-paradigm.com/features/vp-logo.png" width="auto" height="36" alt="Visual Paradigm" /></a>
-<a href="https://learn.microsoft.com/ro-ro/lifecycle/products/windows-7" target="_blank" rel="noreferrer" title="Windows 7"><img src="https://ia904607.us.archive.org/19/items/windows-logo-2006/Windows_logo__2006_.png" width="auto" height="36" alt="Windows 7" /></a>
-<a href="https://www.microsoft.com/ro-ro/software-download/windows10" target="_blank" rel="noreferrer" title="Windows 10"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b79613e1-117a-48cd-829d-bc8137ff147f/dgizlcj-569b7fa9-9a72-4e4a-b4ee-f33e2309623a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3OTYxM2UxLTExN2EtNDhjZC04MjlkLWJjODEzN2ZmMTQ3ZlwvZGdpemxjai01NjliN2ZhOS05YTcyLTRlNGEtYjRlZS1mMzNlMjMwOTYyM2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6ZhTVUGw-yl1Xur7AD4NZlVipRTJpf3FFVfKKlWY5eM" width="auto" height="36" alt="Windows 10" /></a>
-<a href="https://www.microsoft.com/ro-ro/software-download/windows11" target="_blank" rel="noreferrer" title="Windows 11"><img src="https://img.icons8.com/color/512/windows-11.png" width="auto" height="36" alt="Windows 11" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer" title="Ubuntu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width="auto" height="36" alt="Ubuntu" /></a>
-<a href="https://www.centos.org/" target="_blank" rel="noreferrer" title="CentOS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/256px-CentOS_color_logo.svg.png?20170825121117" width="auto" height="36" alt="CentOS" /></a>
-<a href="https://pop.system76.com/" target="_blank" rel="noreferrer" title="PopOS"><img src="https://avatars.githubusercontent.com/u/33131755?s=280&v=4" width="auto" height="36" alt="PopOS" /></a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer" title="Debian"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1654px-Openlogo-debianV2.svg.png" width="auto" height="36" alt="Debian" /></a>
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" title="VirtualBox"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="auto" height="36" alt="VirtualBox" /></a>
-<a href="https://www.marktext.cc/" target="_blank" rel="noreferrer" title="MarkText"><img src="https://www.markdownguide.org/assets/images/tool-icons/mark-text.png" width="auto" height="36" alt="MarkText" /></a>
-<a href="https://www.ghisler.com/" target="_blank" rel="noreferrer" title="Total Commander"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Total_Commander_Logo.png" width="auto" height="36" alt="Total Commander" /></a>
-<a href="https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_EAST_IDEA_Branded&term=intellij%20idea&content=693349187757&gad_source=1&gclid=EAIaIQobChMIyf7Ax9DeigMVYZiDBx2TEyxQEAAYASAAEgLuGvD_BwE" target="_blank" rel="noreferrer" title="IntelliJ IDEA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" width="auto" height="36" alt="IntelliJ IDEA" /></a>
-<a href="https://www.jetbrains.com/pycharm/?source=google&medium=cpc&campaign=EMEA_en_EAST_PyCharm_Branded&term=pycharm&content=698987581419&gad_source=1&gclid=EAIaIQobChMIo4v42NDeigMVb4CDBx3ASzQ2EAAYASAAEgJOifD_BwE" target="_blank" rel="noreferrer" title="PyCharm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="auto" height="36" alt="PyCharm" /></a>
-<a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_EAST_Clion_Branded&term=clion&content=489240780416&gad_source=1&gclid=EAIaIQobChMI-PaT69DeigMV0ZGDBx3uDD3wEAAYASAAEgIE4_D_BwE" target="_blank" rel="noreferrer" title="CLion"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2048px-Clion.svg.png" width="auto" height="36" alt="CLion" /></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" title="Visual Studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="auto" height="36" alt="Visual Studio" /></a>
-<a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer" title="Arduino IDE"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" width="auto" height="36" alt="Arduino IDE" /></a>
-<a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer" title="Code::Blocks"><img src="https://img.icons8.com/color/512/code-blocks.png" width="auto" height="36" alt="Code::Blocks" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer" title="Jupyter Notebook"><img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width="auto" height="36" alt="Jupyter Notebook" /></a>
-<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer" title="SWI-Prolog"><img src="https://www.swi-prolog.org/icons/swipl.png" width="auto" height="36" alt="SWI-Prolog" /></a>
-<a href="https://www.lispworks.com/products/ide.html" target="_blank" rel="noreferrer" title="LispWorks IDE"><img src="https://play-lh.googleusercontent.com/ijlFYFQcdy7itfCyAU8pMB_0eFddFJjFBLfszkmoMbfV3sIAhjosVDo4aJHJfT1-1ew=w240-h480-rw" width="auto" height="36" alt="LispWorks IDE" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Word"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Word_Logo_512px.png" width="auto" height="36" alt="Microsoft Word" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.pixabay.com/photo/2021/01/30/12/15/excel-5963669_1280.png" width="auto" height="36" alt="Microsoft Excel" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft PowerPoint"><img src="https://cdn.pixabay.com/photo/2021/01/30/12/18/powerpoint-5963677_1280.png" width="auto" height="36" alt="Microsoft PowerPoint" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Outlook"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" width="auto" height="36" alt="Microsoft Outlook" /></a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Access"><img src="https://enliten-it.com/wp-content/uploads/2022/04/Access365-logo.png" width="auto" height="36" alt="Microsoft Access" /></a>
-<a href="https://workspace.google.com/products/docs/" target="_blank" rel="noreferrer" title="Google Docs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/1200px-Google_Docs_2020_Logo.svg.png" width="auto" height="36" alt="Google Docs" /></a>
-<a href="https://workspace.google.com/products/sheets/" target="_blank" rel="noreferrer" title="Google Sheets"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="auto" height="36" alt="Google Sheets" /></a>
-<a href="https://workspace.google.com/products/slides/" target="_blank" rel="noreferrer" title="Google Slides"><img src="https://blogs.shu.ac.uk/shutel/files/2014/08/GSlides.png" width="auto" height="36" alt="Google Slides" /></a>
-<a href="https://workspace.google.com/products/forms/" target="_blank" rel="noreferrer" title="Google Forms"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google_Forms_logo_%282014-2020%29.svg/1489px-Google_Forms_logo_%282014-2020%29.svg.png" width="auto" height="36" alt="Google Forms" /></a>
-<a href="https://workspace.google.com/products/sites/" target="_blank" rel="noreferrer" title="Google Sites"><img src="https://google.oit.ncsu.edu/wp-content/uploads/sites/6/2021/01/Google_Sites.max-2800x2800-1.png" width="auto" height="36" alt="Google Sites" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img src="https://seekvectors.com/files/download/eb1aafceb4a159bde95515d57b7dd352.png" width="auto" height="36" alt="Visual Studio Code" /></a>
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer" title="Sublime Text"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="auto" height="36" alt="Sublime Text" /></a>
-<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer" title="Notepad++"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="auto" height="36" alt="Notepad++" /></a>
-<a href="https://atom-editor.cc/ide/" target="_blank" rel="noreferrer" title="Atom"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width="auto" height="36" alt="Atom" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="auto" height="36" alt="Illustrator" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/java-colored.svg" width="auto" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" title="C++"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/cplusplus-colored.svg" width="auto" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/csharp-colored.svg" width="auto" height="36" alt="C#" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/bash.svg" width="auto" height="36" alt="Bash" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" title="C"><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
+        width="auto" height="36" alt="C" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/dart-colored.svg" width="auto" height="36" alt="Dart" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/python-colored.svg" width="auto" height="36" alt="Python" /></a>
+<a href="https://ro.wikipedia.org/wiki/Prolog" target="_blank" rel="noreferrer" title="Prolog"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/prolog.png" width="auto" height="36" alt="Prolog" /></a>
+<a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)" target="_blank" rel="noreferrer" title="LISP"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/lisp.png" width="auto" height="36" alt="LISP" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer" title="PowerShell"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/powershell-colored.svg" width="auto" height="36" alt="PowerShell" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/html5-colored.svg" width="auto" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/css3-colored.svg" width="auto" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/sass-colored.svg" width="auto" height="36" alt="SASS" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/typescript-colored.svg" width="auto" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
+    title="JavaScript"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/javascript-colored.svg" width="auto" height="36"
+        alt="Javascript" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" title=".NET"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/dot-net-colored.svg" width="auto" height="36" alt=".NET" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring Core"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/springboot-colored.svg" width="auto" height="36" alt="Spring Core" /></a>
+<a href="https://www.jwt.io/" target="_blank" rel="noreferrer" title="Java Web Token"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/java-web-token.png" width="auto" height="36" alt="JWT" /></a>
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer" title="Entity Framework"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/ef.png" width="auto" height="36" alt="Entity Framework" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target="_blank" rel="noreferrer" title="SignalR"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/signalR.png" width="auto" height="36" alt="SignalR" /></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started"
+    target="_blank" rel="noreferrer" title="ASP.NET"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/aspnet.png" width="auto"
+        height="36" alt="ASP.NET" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring Boot"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/spring-boot.png" width="auto" height="36" alt="Spring Boot" /></a>
+<a href="https://spring.io/projects/spring-restdocs" target="_blank" rel="noreferrer" title="Spring REST"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/spring-rest.png" width="auto" height="36" alt="Spring REST" /></a>
+<a href="https://spring.io/projects/spring-data" target="_blank" rel="noreferrer" title="Spring Data"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/spring-data.png" width="auto" height="36" alt="Spring Data" /></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer" title="Hibernate"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/hibernate.svg" width="auto" height="36" alt="Hibernate" /></a>
+<a href="https://www.oracle.com/java/technologies/persistence-jsp.html" target="_blank" rel="noreferrer"
+    title="Java Persistence API( JPA)"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jpa.png" width="auto" height="36"
+        alt="Java Persistence API" /></a>
+<a href="https://projectlombok.org/" target="_blank" rel="noreferrer" title="Lombok"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/lombok.png" width="auto" height="36" alt="Lombok" /></a>
+<a href="https://www.javatpoint.com/jdbc-tutorial" target="_blank" rel="noreferrer" title="JDBC"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jdbc.png" width="auto" height="36" alt="JDBC" /></a>
+<a href="https://docs.oracle.com/javase/tutorial/uiswing//" target="_blank" rel="noreferrer" title="Java Swing"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/java-swing.png" width="auto" height="36" alt="Java Swing" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/angularjs-colored.svg" width="auto" height="36" alt="Angular" /></a>
+<a href="https://material.angular.io/" target="_blank" rel="noreferrer" title="Angular Material"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/angular-material.png" width="auto" height="36" alt="Angular Material" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="BootStrap"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/bootstrap-colored.svg" width="auto" height="36" alt="Bootstrap" /></a>
+<a href="https://openjfx.io/" target="_blank" rel="noreferrer" title="JavaFX"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/java-fx.png" width="auto" height="36" alt="JavaFX" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-9.0" target="_blank"
+    rel="noreferrer" title="WPF .NET"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/wpf.png" width="auto" height="36"
+        alt="WPF .NET" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/flutter-colored.svg" width="auto" height="36" alt="Flutter" /></a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer" title="SceneBuilder"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/scene-builder.png" width="auto" height="36" alt="SceneBuilder" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/mysql-colored.svg" width="auto" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/postgresql-colored.svg" width="auto" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="Microsoft SQL Server"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-sql-server.png" width="auto" height="36" alt="SQL Server" /></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer" title="MariaDB"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/maria-db.png" width="auto" height="36" alt="MariaDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/mongodb-colored.svg" width="auto" height="36" alt="MongoDB" /></a>
+<a href="https://file.org/extension/json" target="_blank" rel="noreferrer" title="JSON"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/json.png" width="auto" height="36" alt="JSON" /></a>
+<a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer" title="XML"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/xml.png" width="auto" height="36" alt="XML" /></a>
+<a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank" rel="noreferrer" title="CSV"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/csv.png" width="auto" height="36" alt="CSV" /></a>
+<a href="https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms759096(v=vs.85)" target="_blank"
+    rel="noreferrer" title="XSLT"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/xslt.png" width="auto" height="36"
+        alt="XSLT" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer" title="Swagger"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/swagger.svg" width="auto" height="36" alt="Swagger" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/docker-colored.svg" width="auto" height="36" alt="Docker" /></a>
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer" title="GitLab CI/CD"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/gitlab-ci-cd.png" width="auto" height="36" alt="GitLab CI/CD" /></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer" title="SonarQube"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/sonarqube.svg" width="auto" height="36" alt="SonarQube" /></a>
+<a href="https://nexus.evolveum.com/nexus/" target="_blank" rel="noreferrer" title="Sonatype Nexus Repository"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/sonatype-nexus-repository.png" width="auto" height="36"
+        alt="Sonatype Nexus Repository" /></a>
+<a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository" target="_blank" rel="noreferrer"
+    title="Git"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/git-colored.svg" width="auto" height="36" alt="Git" /></a>
+<a href="https://www.syntevo.com/smartgit/" target="_blank" rel="noreferrer" title="SmartGit"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/smartgit.png" width="auto" height="36" alt="SmartGit" /></a>
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer" title="GitKraken"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/gitkraken.png" width="auto" height="36" alt="GitKraken" /></a>
+<a href="https://gitnuro.com/" target="_blank" rel="noreferrer" title="Gitnuro"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/gitnuro.png" width="auto" height="36" alt="Gitnuro" /></a>
+<a href="https://gitahead.github.io/gitahead.com/" target="_blank" rel="noreferrer" title="GitAhead"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/gitahead.png" width="auto" height="36" alt="GitAhead" /></a>
+<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer" title="Sourcetree"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/sourcetree.png" width="auto" height="36" alt="Sourcetree" /></a>
+<a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer" title="GitHub Desktop"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/github-desktop.png" width="auto" height="36" alt="GitHub Desktop" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" title="GitLab"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/gitlab.svg" width="auto" height="36" alt="GitLab" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/github.svg" width="auto" height="36" alt="GitHub" /></a>
+<a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer" title="Bitbucket"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/bitbucket.svg" width="auto" height="36" alt="Bitbucket" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer" title="JUnit 5"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/junit5.svg" width="auto" height="36" alt="JUnit 5" /></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer" title="Mockito"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/mockito.png" width="auto" height="36" alt="Mockito" /></a>
+<a href="https://junit.org/junit4/" target="_blank" rel="noreferrer" title="JUnit 4"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/junit4.png" width="auto" height="36" alt="JUnit 4" /></a>
+<a href="https://github.com/powermock/powermock" target="_blank" rel="noreferrer" title="PowerMock"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/powermock.png" width="auto" height="36" alt="PowerMock" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer" title="Selenium"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/selenium.svg" width="auto" height="36" alt="Selenium" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/postman.svg" width="auto" height="36" alt="Postman" /></a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" title="JMeter"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/apache-jmeter.png" width="auto" height="36" alt="JMeter" /></a>
+<a href="https://docs.oracle.com/cd/E13222_01/wls/docs100/jmxinst/understanding.html" target="_blank" rel="noreferrer"
+    title="JMX"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jmx-file.png" width="auto" height="36" alt="JMX" /></a>
+<a href="https://www.eclemma.org/jacoco/" target="_blank" rel="noreferrer" title="JaCoCo"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jacoco.png" width="auto" height="36" alt="JaCoCo" /></a>
+<a href="https://activemq.apache.org/" target="_blank" rel="noreferrer" title="Apache Active MQ"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/apache-active-mq.png" width="auto" height="36" alt="Apache Active MQ" /></a>
+<a href="https://ro.wikipedia.org/wiki/Hypertext_Transfer_Protocol" target="_blank" rel="noreferrer" title="HTTP"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/http.png" width="auto" height="36" alt="HTTP" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/graphql-colored.svg" width="auto" height="36" alt="GraphQL" /></a>
+<a href="https://putty.org/" target="_blank" rel="noreferrer" title="Putty"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/putty.svg" width="auto" height="36" alt="PUTTY" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" title="Wireshark"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/wireshark.png" width="auto" height="36" alt="Wireshark" /></a>
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank" rel="noreferrer"
+    title="MVC (Model-View-Controller)"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/mvc.png" width="auto" height="36"
+        alt="MVC (Model-View-Controller)" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm" target="_blank" rel="noreferrer"
+    title="MVVM (Model-View-ViewModel)"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/mvvm.png" width="auto" height="36"
+        alt="MVVM (Model-View-ViewModel)" /></a>
+<a href="https://www.scrum.org/resources/what-scrum-module" target="_blank" rel="noreferrer" title="Scrum"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/scrum.png" width="auto" height="36" alt="Scrum" /></a>
+<a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer" title="Agile"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/agile.png" width="auto" height="36" alt="Agile" /></a>
+<a href="https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/" target="_blank"
+    rel="noreferrer" title="UML"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/uml.png" width="auto" height="36"
+        alt="UML" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jira.svg" width="auto" height="36" alt="Jira" /></a>
+<a href="https://www.microsoft.com/ro-ro/microsoft-teams/log-in" target="_blank" rel="noreferrer" title="Teams"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-teams.png" width="auto" height="36" alt="Teams" /></a>
+<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer" title="Visual Paradigm"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/visual-paradigm.png" width="auto" height="36" alt="Visual Paradigm" /></a>
+<a href="https://www.microsoft.com/ro-ro/software-download/windows11" target="_blank" rel="noreferrer"
+    title="Windows 11"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/windows11.svg" width="auto" height="36"
+        alt="Windows 11" /></a>
+<a href="https://www.microsoft.com/ro-ro/software-download/windows10" target="_blank" rel="noreferrer"
+    title="Windows 10"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/windows10.png" width="auto" height="36"
+        alt="Windows 10" /></a>
+<a href="https://learn.microsoft.com/ro-ro/lifecycle/products/windows-8" target="_blank" rel="noreferrer"
+    title="Windows 8"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/windows8.svg" width="auto" height="36"
+        alt="Windows 8" /></a>
+<a href="https://learn.microsoft.com/ro-ro/lifecycle/products/windows-7" target="_blank" rel="noreferrer"
+    title="Windows 7"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/windows7.png" width="auto" height="36"
+        alt="Windows 7" /></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer" title="Ubuntu"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/ubuntu-colored.svg" width="auto" height="36" alt="Ubuntu" /></a>
+<a href="https://pop.system76.com/" target="_blank" rel="noreferrer" title="PopOS"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/popos.png" width="auto" height="36" alt="PopOS" /></a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer" title="Debian"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/debian.svg" width="auto" height="36" alt="Debian" /></a>
+<a href="https://www.centos.org/" target="_blank" rel="noreferrer" title="CentOS"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/centos.svg" width="auto" height="36" alt="CentOS" /></a>
+<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer" title="Fedora"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/fedora-colored.svg" width="auto" height="36" alt="Fedora" /></a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" title="VirtualBox"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/virtualbox.png" width="auto" height="36" alt="VirtualBox" /></a>
+<a href="https://www.marktext.cc/" target="_blank" rel="noreferrer" title="MarkText"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/marktext.png" width="auto" height="36" alt="MarkText" /></a>
+<a href="https://www.ghisler.com/" target="_blank" rel="noreferrer" title="Total Commander"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/total-commander.png" width="auto" height="36" alt="Total Commander" /></a>
+<a href="https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=EMEA_en_EAST_IDEA_Branded&term=intellij%20idea&content=693349187757&gad_source=1&gclid=EAIaIQobChMIyf7Ax9DeigMVYZiDBx2TEyxQEAAYASAAEgLuGvD_BwE"
+    target="_blank" rel="noreferrer" title="IntelliJ IDEA"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/intellij-idea.svg"
+        width="auto" height="36" alt="IntelliJ IDEA" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" title="Visual Studio"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/visual-studio.svg" width="auto" height="36" alt="Visual Studio" /></a>
+<a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_EAST_Clion_Branded&term=clion&content=489240780416&gad_source=1&gclid=EAIaIQobChMI-PaT69DeigMV0ZGDBx3uDD3wEAAYASAAEgIE4_D_BwE"
+    target="_blank" rel="noreferrer" title="CLion"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/clion.svg" width="auto"
+        height="36" alt="CLion" /></a>
+<a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer" title="Arduino IDE"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/arduino-ide.png" width="auto" height="36" alt="Arduino IDE" /></a>
+<a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer" title="Code::Blocks"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/code-blocks.png" width="auto" height="36" alt="Code::Blocks" /></a>
+<a href="https://www.jetbrains.com/pycharm/?source=google&medium=cpc&campaign=EMEA_en_EAST_PyCharm_Branded&term=pycharm&content=698987581419&gad_source=1&gclid=EAIaIQobChMIo4v42NDeigMVb4CDBx3ASzQ2EAAYASAAEgJOifD_BwE"
+    target="_blank" rel="noreferrer" title="PyCharm"><img src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/pycharm.svg" width="auto"
+        height="36" alt="PyCharm" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer" title="Jupyter Notebook"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/jupyter.svg" width="auto" height="36" alt="Jupyter Notebook" /></a>
+<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer" title="SWI-Prolog"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/swi-prolog.png" width="auto" height="36" alt="SWI-Prolog" /></a>
+<a href="https://www.lispworks.com/products/ide.html" target="_blank" rel="noreferrer" title="LispWorks IDE"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/lispworks-ide.png" width="auto" height="36" alt="LispWorks IDE" /></a>
+<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Word"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-word.png" width="auto" height="36"
+        alt="Microsoft Word" /></a>
+<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Excel"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-excel.png" width="auto" height="36"
+        alt="Microsoft Excel" /></a>
+<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft PowerPoint"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-powerpoint.png" width="auto" height="36"
+        alt="Microsoft PowerPoint" /></a>
+<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Outlook"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-outlook.png" width="auto" height="36"
+        alt="Microsoft Outlook" /></a>
+<a href="https://www.office.com/" target="_blank" rel="noreferrer" title="Microsoft Access"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/microsoft-office-access.png" width="auto" height="36"
+        alt="Microsoft Access" /></a>
+<a href="https://workspace.google.com/products/docs/" target="_blank" rel="noreferrer" title="Google Docs"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/google-docs.png" width="auto" height="36" alt="Google Docs" /></a>
+<a href="https://workspace.google.com/products/sheets/" target="_blank" rel="noreferrer" title="Google Sheets"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/google-sheets.png" width="auto" height="36" alt="Google Sheets" /></a>
+<a href="https://workspace.google.com/products/slides/" target="_blank" rel="noreferrer" title="Google Slides"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/google-slides.png" width="auto" height="36" alt="Google Slides" /></a>
+<a href="https://workspace.google.com/products/forms/" target="_blank" rel="noreferrer" title="Google Forms"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/google-forms.png" width="auto" height="36" alt="Google Forms" /></a>
+<a href="https://workspace.google.com/products/sites/" target="_blank" rel="noreferrer" title="Google Sites"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/google-sites.png" width="auto" height="36" alt="Google Sites" /></a>
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer" title="Sublime Text"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/sublimetext-colored.svg" width="auto" height="36" alt="Sublime Text" /></a>
+<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer" title="Notepad++"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/notepad++.png" width="auto" height="36" alt="Notepad++" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/visualstudiocode-colored.svg" width="auto" height="36"
+        alt="Visual Studio Code" /></a>
+<a href="https://atom-editor.cc/ide/" target="_blank" rel="noreferrer" title="Atom"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/atom.svg" width="auto" height="36" alt="Atom" /></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/arduino-colored.svg" width="auto" height="36" alt="Arduino" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/raspberrypi-colored.svg" width="auto" height="36" alt="Raspberry Pi" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"><img
+        src="https://github.com/denisaxxiv/portofolio/blob/main/v0.3/resources/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 
 
 ## 📫 How to reach me:
