@@ -2,10 +2,6 @@
 
 # Hi there, I'm Denisa 👋 [![](https://visitcount.itsvg.in/api?id=DenisaXXIV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
-![DenisaXXIV's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisaXXIV&theme=aura_dark&langs_count=10&layout=compact&hide_border=false&card_width=400&include_all_commits=true&count_private=true&hide=jupyter%20notebook,makefile,cmake,qmake,glsl)
-![DenisaXXIV's GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=DenisaXXIV&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400&card_height=215)<br/>
-
 ## 💻 Tech Stack:
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img
         src="https://raw.githubusercontent.com/DenisaXXIV/FMI-UniTBv/refs/heads/master/Courses/resources/random/readme/skills/java-colored.svg" width="auto" height="36" alt="Java" /></a>
@@ -275,8 +271,9 @@
 ## 📫 How to reach me:
 <!---<a href="https://denisa-vasile.info/" target="_blank" rel="noreferrer"><img src="https://github.com/DenisaXXIV/portofolio/blob/main/Vanilla%20JS/imagini/logo/Logo_vulpe.svg" width="40" height="40" alt="Portofolio" /></a> -->
 <a href="https://www.linkedin.com/in/denisa-georgiana-v-358739196" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" width="34" height="34" alt="LinkedIn" /></a>
-<a href="mailto:sd@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="auto" height="34" alt="Mail" /></a>
-
+<a href="mailto:vasile.denisa.24@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F020%2F964%2F377%2Fsmall_2x%2Fgmail-mail-icon-for-web-design-free-png.png&sp=1779272886T040ecce2c53ad87600c8046a7abff9ff141cf249df8d17df5285fd4f589bd59e" width="auto" height="34" alt="Mail" /></a>
+<a href="https://portofolio-1f0779.gitlab.io/html/Home.html" target="_blank" rel="noreferrer"><img src="https://portofolio-1f0779.gitlab.io/resources/logo/Logo_vulpe.svg" 
+width="34" height="34" alt="Portofolio" /></a>
 <!---
 [<img alt="Portofolio" width="40px" src="util/portofolio.svg" />](http://denisavasile.online/)
 [<img alt="LinkedIn" width="40px" src="util/linkedin.svg" />](https://www.linkedin.com/in/denisa-georgiana-v-358739196)
